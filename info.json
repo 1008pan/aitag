@@ -1,0 +1,94 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://aitag.top/",
+            "path": "index.html",
+            "saved": true,
+            "size": 454,
+            "children": [
+                {
+                    "url": "https://aitag.top/assets/index.12a6161c.js",
+                    "path": "js/index.12a6161c.js",
+                    "saved": true,
+                    "size": 860146,
+                    "children": []
+                },
+                {
+                    "url": "https://aitag.top/assets/index.39fdd4fa.css",
+                    "path": "css/index.39fdd4fa.css",
+                    "saved": true,
+                    "size": 322949,
+                    "children": []
+                },
+                {
+                    "url": "https://aitag.top/vite.svg",
+                    "path": "img/vite.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "aitag-top-t9albe2s",
+    "info": {
+        "remark": [],
+        "title": "魔咒百科词典",
+        "domain": "aitag.top",
+        "origin": "https://aitag.top",
+        "ip": "104.21.6.194",
+        "main": "index.html",
+        "url": "https://aitag.top/",
+        "totalSize": "1.18 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://aitag.top/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://aitag.top/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Sun, 16 Oct 2022 09:10:58 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Sat, 15 Oct 2022 13:20:41 GMT",
+                "strict-transport-security": "max-age=31536000",
+                "accept-ranges": "bytes",
+                "cf-cache-status": "DYNAMIC",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=y%2BLbt6wanjjJgE8KT7k1MJtpzt2p8lltzO1dgFgjxHImXpf%2FkGP88uOI43YR5qz5hAyJCvUk7Pcnlx9gAnrs2lI7w9aahHkh15AcS6OkZWKCKQTDYuz3iwUgBVs%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "75afaa15ab351d6b-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2022-10-16T09:10:58.085Z",
+            "end": "2022-10-16T09:10:58.648Z"
+        }
+    },
+    "options": {
+        "url": "https://aitag.top/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
