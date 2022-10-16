@@ -47872,9 +47872,9 @@ var CJ = i2((Nn,Mn)=>{
       , dJ = Ln(()=>K("br", null, null, -1))
       , fJ = Ln(()=>K("br", null, null, -1))
       , pJ = Ln(()=>K("a", {
-        href: "https://afdian.net/a/aitag",
+        href: "https://github.com/1008pan/aitag",
         target: "\u201C_blank\u201D"
-    }, "\u7231\u53D1\u7535\u2014\u2014\u2014\u2014\u8D5E\u52A9\u6211\u559D\u676F\u5496\u5561~", -1))
+    }, "Github\u4ed3\u5e93\u2014\u2014\u2014\u2014\u70b9\u6211\u83b7\u53d6\u672c\u7ad9\u6e90\u7801~", -1))
       , hJ = Ln(()=>K("br", null, null, -1))
       , vJ = Ln(()=>K("br", null, null, -1))
       , mJ = {
@@ -47885,7 +47885,7 @@ var CJ = i2((Nn,Mn)=>{
       , bJ = {
         __name: "App",
         setup(e) {
-            const t = "tag/"
+            const t = "https://gcore.jsdelivr.net/gh/1008pan/aitag@gh-pages/tag/"
               , n = _n.create({
                 withCredentials: !0,
                 baseURL: t
@@ -48369,7 +48369,7 @@ var CJ = i2((Nn,Mn)=>{
                     _: 1
                 }, 8, ["modelValue"]), K("div", iJ, [uJ, cJ, K("span", {
                     onClick: H[18] || (H[18] = J=>P.value = !0)
-                }, "By bilibili \u6CE2\u897FBrackRat"), dJ, fJ, pJ, hJ, vJ, V(pe, {
+                }, "By bilibili \u6ce2\u897fBrackRat & Github 1008pan(zxwy)"), dJ, fJ, pJ, hJ, vJ, V(pe, {
                     style: {
                         margin: "5px"
                     }
